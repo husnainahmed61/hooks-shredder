@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\TAQI SHAH\\Desktop\\hooks\\vlc\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{73E0C18E-D534-4F84-BF64-AB55F53DCF0E}|SvHookProject\\SvHookProject.vcxproj|C:\\Users\\TAQI SHAH\\Desktop\\hooks\\vlc\\SvHookProject\\SvHookProject.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{73E0C18E-D534-4F84-BF64-AB55F53DCF0E}|SvHookProject\\SvHookProject.vcxproj|solutionrelative:SvHookProject\\SvHookProject.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SvHookProject.cpp",
+              "DocumentMoniker": "C:\\Users\\TAQI SHAH\\Desktop\\hooks\\vlc\\SvHookProject\\SvHookProject.cpp",
+              "RelativeDocumentMoniker": "SvHookProject\\SvHookProject.cpp",
+              "ToolTip": "C:\\Users\\TAQI SHAH\\Desktop\\hooks\\vlc\\SvHookProject\\SvHookProject.cpp",
+              "RelativeToolTip": "SvHookProject\\SvHookProject.cpp",
+              "ViewState": "AgIAAK8AAACAZmZmZsYwwL4AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-16T14:47:45.822Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

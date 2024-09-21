@@ -1,0 +1,6 @@
+﻿Build started at 6:22 PM...
+1>------ Build started: Project: SvHookProject, Configuration: Debug x64 ------
+1>SvHookProject.cpp
+1>SvHookProject.vcxproj -> C:\Users\TAQI SHAH\Desktop\hooks\npp\x64\Debug\SvHookProject.exe
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
+========== Build completed at 6:22 PM and took 05.434 seconds ==========
