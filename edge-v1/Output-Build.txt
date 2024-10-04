@@ -1,0 +1,6 @@
+﻿Build started at 3:58 PM...
+1>------ Build started: Project: SvHookProject, Configuration: Debug x64 ------
+1>SvHookProject.cpp
+1>SvHookProject.vcxproj -> C:\Users\TAQI SHAH\Desktop\shredder\hooks-shredder\edge-v1\x64\Debug\SvHookProject.exe
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
+========== Build completed at 3:58 PM and took 03.809 seconds ==========
